@@ -1,0 +1,15 @@
+{
+    "name": "duke/map",
+    "authors": [
+        {
+            "name": "tseng duke",
+            "email": "bearbearbear10675@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Duke\\Map\\": "src/"
+        }
+    }
+}
